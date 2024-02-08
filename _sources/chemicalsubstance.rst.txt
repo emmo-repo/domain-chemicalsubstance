@@ -14782,6 +14782,37 @@ VinyleneCarbonate
 
 .. raw:: html
 
+   <div id="electrochemistry_a7b05629_80d7_402b_be1a_69933d24c4cb"></div>
+
+Water
+-----
+
+* https://w3id.org/emmo/domain/electrochemistry#electrochemistry_a7b05629_80d7_402b_be1a_69933d24c4cb
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Elucidation</span></td>
+  <td class="element-table-value">chemical compound with raw molecular formula H2O</td>
+  </tr>
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">H2O</td>
+  </tr>
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Wikipedia Reference</span></td>
+  <td class="element-table-value"><a href='https://en.wikipedia.org/wiki/Water'>https://en.wikipedia.org/wiki/Water</a></td>
+  </tr>
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Wikidata Reference</span></td>
+  <td class="element-table-value"><a href='https://www.wikidata.org/wiki/Q283'>https://www.wikidata.org/wiki/Q283</a></td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
    <div id="substance_29fd347b_6a15_4c98_a982_84cf555b0b86"></div>
 
 WeakAcid
