@@ -10854,6 +10854,25 @@ TrisPentafluorophenylBorane
 
 .. raw:: html
 
+   <div id="substance_69ce48e4_23e3_4758_84ae_f00ed3f79518"></div>
+
+TrisTrimethylsilyPhosphite
+--------------------------
+
+* https://w3id.org/emmo/domain//chemicalsubstance#substance_69ce48e4_23e3_4758_84ae_f00ed3f79518
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">TMSPI</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
    <div id="substance_859210f4_f4ac_445d_841c_74e3fbe74c3e"></div>
 
 Tungsten
