@@ -74,6 +74,29 @@ emmo:material_c5c9cf9f_252e_4b28_90f6_56b500db67fc rdfs:label "deprecate_Organic
     emmo:EMMO_b8c10b72_7cc1_4e82_b4ab_728faf504919 "C9H27O3PSi3" ;
     emmo:EMMO_f652e7d2_0b33_4d10_8d0f_2f70089982ba "tris(trimethylsilyl) phosphite" .
 
+<https://w3id.org/emmo/domain/chemical-substance> a owl:Ontology ;
+    dcterms:abstract "This ontology provides terms for chemical substances that can be referenced and re-used other resources."@en ;
+    dcterms:bibliographicCitation "https://zenodo.org/doi/10.5281/zenodo.10254978" ;
+    dcterms:contributor <https://orcid.org/0000-0002-1560-809X> ;
+    dcterms:created "2023-09-28"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0000-0002-8758-6109> ;
+    dcterms:issued "2024-06-23"^^xsd:date ;
+    dcterms:license "https://creativecommons.org/licenses/by/4.0/legalcode" ;
+    dcterms:modified "2024-06-23"^^xsd:date ;
+    dcterms:publisher "EMMO" ;
+    dcterms:source " " ;
+    dcterms:title "Chemical Substance Domain Ontology"@en ;
+    bibo:doi "10.5281/zenodo.10254978" ;
+    bibo:status "unstable" ;
+    vann:preferredNamespacePrefix "chems" ;
+    vann:preferredNamespaceUri "https://w3id.org/emmo/domain/chemical-substance" ;
+    owl:backwardCompatibleWith " " ;
+    owl:imports <https://w3id.org/emmo/1.0.0-beta7> ;
+    owl:priorVersion "0.5.0-beta" ;
+    owl:versionIRI <https://w3id.org/emmo/domain/chemical-substance/0.6.0-beta/chemical-substance> ;
+    owl:versionInfo "0.6.0-beta" ;
+    foaf:logo " " .
+
 :substance_00db9ba1_7259_4180_a82e_7ed4dafc29a9 a owl:Class ;
     rdfs:label "MagnesiumHexafluorophosphate"@en ;
     rdfs:subClassOf :substance_0001e895_e74b_438f_b47f_b52f33d68331 ;
@@ -6626,29 +6649,6 @@ emmo:material_c5c9cf9f_252e_4b28_90f6_56b500db67fc rdfs:label "deprecate_Organic
     emmo:EMMO_c84c6752_6d64_48cc_9500_e54a3c34898d "https://en.wikipedia.org/wiki/Lead"@en ;
     emmo:EMMO_f652e7d2_0b33_4d10_8d0f_2f70089982ba "lead" ;
     :substance_33ab8162_934b_4e36_bb43_5528d867d6d6 "InChI=1S/Pb" .
-
-<https://w3id.org/emmo/domain/chemical-substance/chemical-substance> a owl:Ontology ;
-    dcterms:abstract "This ontology provides terms for chemical substances that can be referenced and re-used other resources."@en ;
-    dcterms:bibliographicCitation "https://zenodo.org/doi/10.5281/zenodo.10254978" ;
-    dcterms:contributor <https://orcid.org/0000-0002-1560-809X> ;
-    dcterms:created "2023-09-28"^^xsd:date ;
-    dcterms:creator <https://orcid.org/0000-0002-8758-6109> ;
-    dcterms:issued "2024-06-23"^^xsd:date ;
-    dcterms:license "https://creativecommons.org/licenses/by/4.0/legalcode" ;
-    dcterms:modified "2024-06-23"^^xsd:date ;
-    dcterms:publisher "EMMO" ;
-    dcterms:source " " ;
-    dcterms:title "Chemical Substance Domain Ontology"@en ;
-    bibo:doi "10.5281/zenodo.10254978" ;
-    bibo:status "unstable" ;
-    vann:preferredNamespacePrefix "chems" ;
-    vann:preferredNamespaceUri "https://w3id.org/emmo/domain/chemical-substance" ;
-    owl:backwardCompatibleWith " " ;
-    owl:imports <https://w3id.org/emmo/1.0.0-beta7> ;
-    owl:priorVersion "0.5.0-beta" ;
-    owl:versionIRI <https://w3id.org/emmo/domain/chemical-substance/0.6.0-beta/chemical-substance> ;
-    owl:versionInfo "0.6.0-beta" ;
-    foaf:logo " " .
 
 <https://w3id.org/emmo/domain/electrochemistry#electrochemistry_a7b05629_80d7_402b_be1a_69933d24c4cb> a owl:Class ;
     rdfs:label "Water"@en ;
