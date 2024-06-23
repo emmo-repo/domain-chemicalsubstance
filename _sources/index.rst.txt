@@ -2,10 +2,11 @@
    :includehidden:
    :hidden:
       
-   About <about>
-   Class Index <chemicalsubstance>
-   Resources <resources>
-   Contribute <contribute>
+    Get Started <pages/getstarted>
+    Examples <pages/examples>
+    Class Index <pages/chemical-substance>
+    About <pages/about>
+    FAQ <pages/faq>
 
    
 .. grid::
